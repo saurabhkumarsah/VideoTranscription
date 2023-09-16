@@ -1,1 +1,1 @@
-#  YouTube Video Transcription Web App Preparation Document
+#  YouTube Video Transcription Web App
